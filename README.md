@@ -2,19 +2,19 @@
 
 Submitted by: **Subham Bhattacharya**
 
-**Flixter+ 2** is a movie browsing app that allows users to browse ... [TODO] 
+**Flixter+ 2** is a Tv Series browsing app that allows users to browse different Tv Series
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
-- [ ] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
-- [ ] **Use Glide to load and display at least one image per entry**
-- [ ] **Click on an entry to view specific details about that entry using Intents**
+- [x] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: `series`
+- [x] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [x] **Use Glide to load and display at least one image per entry**
+- [x] **Click on an entry to view specific details about that entry using Intents**
 
 The following **optional** features are implemented:
 
@@ -41,7 +41,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challange I encountered is that when I went to a new screen I could not get the API calls correctly
 
 ## License
 
